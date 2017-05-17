@@ -1,0 +1,19 @@
+{
+  "name": "ivanhabibisnpm",
+  "version": "1.0.0",
+  "description": "this is  a test NPM to learn create npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "npm"
+  ],
+  "author": "NPM Demo <ivanhabi2@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.16.1",
+    "md5": "^2.2.1"
+  }
+}
